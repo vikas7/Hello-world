@@ -1,2 +1,6 @@
 # Hello-world
-this is my first project
+public class Hello{
+public static void main(String args[]){
+System.out.println("This is m first project");
+}
+}
